@@ -1,0 +1,93 @@
+.container-fluid #accordion1 .card {
+    color: #8E8E8E;
+    background-color: #000000;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    border-left-style: double;
+    border-bottom: medium solid #636363;
+    margin-top: -2px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-left-color: #B1B1B1;
+    font-size: large;
+    text-align: left;
+}
+.container-fluid #accordion1 {
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    background-color: #000000;
+    color: #2A2A2A;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #D8D8D8;
+    text-transform: capitalize;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #D8D8D8;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+#headingOne1 .mb-0 a {
+    color: #DBDBDB;
+    text-transform: capitalize;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #D8D8D8;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+#headingFour1 .mb-0 .collapsed {
+    color: #D8D8D8;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+#headingFive1 .mb-0 .collapsed {
+    color: #D8D8D8;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+#headingSix1 .mb-0 .collapsed {
+    color: #D8D8D8;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+}
+#headingSeven1 .mb-0 .collapsed {
+    color: #D8D8D8;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+#bg {
+            position: fixed; 
+            top: -50%; 
+            left: -50%; 
+            width: 200%; 
+            height: 200%;
+	background-color: black
+          }
+          

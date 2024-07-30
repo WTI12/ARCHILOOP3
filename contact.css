@@ -1,0 +1,147 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #E8E8E8;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+}
+.col-xl-6 .container-fluid .container {
+    color: #000000;
+}
+.row .col-xl-12 img {
+    margin-left: 60px;
+}
+
+
+.c1 {
+    position: absolute;
+    right: 100px;
+    width: 400px;
+    border: 2px none black;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    color: black;
+    text-align: left;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: x-large;
+    text-transform: lowercase;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+    white-space: normal;
+    vertical-align: baseline;
+    margin-top: 116px;
+    margin-right: 39px;
+    height: 0px;
+    }
+.col-xl-6 .c1 h3 {
+    text-transform: uppercase;
+    color: #2F2F2F;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: x-large;
+    border-style: none;
+}
+.col-xl-6 .c1 h4 {
+    text-transform: lowercase;
+    color: #5A5A5A;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 2px;
+    font-size: medium;
+}
+.col-xl-6 .c1 h5 {
+    text-transform: capitalize;
+    color: #5A5A5A;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 2px;
+    font-size: medium;
+}
+.c2 {
+    position: absolute;
+    right: 100px;
+    width: 600px;
+    border: 3px none black;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    color: black;
+    text-align: left;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: x-large;
+    text-transform: lowercase;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+    white-space: normal;
+    vertical-align: baseline;
+    margin-top: 83px;
+    margin-right: -682px;
+    height: 0px;
+    }
+.col-xl-6 .c2 h3 {
+    text-transform: uppercase;
+    color: #555555;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
+}
+.col-xl-6 .c2 h4 {
+    text-transform: lowercase;
+    color: #000000;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -1px;
+    font-size: medium;
+}
+.col-xl-6 .c2 h5 {
+    text-transform: capitalize;
+    color: #000000;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 2px;
+    font-size: medium;
+}
+.col-xl-6 .c2 input {
+    color: #FFFFFF;
+    background-color: #000000;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: medium;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.container-fluid .row .col-xl-12 {
+    background-color: #000000;
+}
+
+
+.bl{
+	border-left: 6px solid #868686;
+  height: 350px;
+  position: absolute;
+  left: -15%;
+  margin-left: -3px;
+  top: 0;
+}
+.container-fluid .row {
+    background-color: #000000;
+}

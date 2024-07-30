@@ -1,0 +1,52 @@
+.card.col-md-4.col-xl-12 .card-body .card-title.text-uppercase.text-center {
+    color: #E0E0E0;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    word-spacing: 6px;
+    border-bottom-style: solid;
+    border-bottom-color: #3A3A3A;
+}
+.row .col-xl-6 .card.col-md-4.col-xl-12 {
+    background-color: #000000;
+}
+.card-body .btn-group .btn.btn-secondary {
+    background-color: #2F2F2F;
+    color: #FFFFFF;
+    margin-left: 30px;
+    margin-right: 25px;
+    padding-left: 17px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.card.col-md-4.col-xl-12 .card-body .btn.btn-primary {
+    margin-left: 6px;
+    margin-top: 0px;
+    background-color: #2F2F2F;
+    color: #FFFFFF;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    border-style: dotted;
+    border-color: #FFFFFF;
+}
+
+
+.card.col-md-4.col-xl-12 .card-body .card-text.text-capitalize.text-left {
+    color: #B3B3B3;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+}
+
